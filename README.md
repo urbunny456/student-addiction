@@ -1,0 +1,1 @@
+The purpose of this project was to clean, analyze, and interpret data from the Kaggle dataset https://www.kaggle.com/datasets/adilshamim8/social-media-addiction-vs-relationships. This project was intended for learning introductory data visualization skills using the seaborn and matplotlib libraries. 
